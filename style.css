@@ -1,0 +1,28 @@
+body {
+    background-color: var(--cinza);
+}
+
+:root{
+    --fonte-titulo: "Bebas Neue", sans-serif;
+    --rosa: hotpink;
+    --ouro:gold;
+    --cinza:gray;
+    --verde: green;
+    --azul-claro: cornflowerblue;
+}
+
+.conteudo-titulo {
+    font-family:var(--fonte-titulo);
+    text-align: center;
+    font-size: 30px;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   color: var(--rosa);
+}
+
+#campo-senha {
+background-color: var(--azul-claro);
+padding: 8px;
+width: 300px;
+}
