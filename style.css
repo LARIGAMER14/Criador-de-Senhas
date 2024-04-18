@@ -122,3 +122,18 @@ label {
     justify-content: space-between;
 }
 
+.media {
+    background-color: yellow;
+    width: 50%;
+}
+
+.forte {
+    background-color: green;
+    width: 100%;
+}
+
+.forca {
+height: 30px;
+position: relative;
+bottom: 30px;
+}
