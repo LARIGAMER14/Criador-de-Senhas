@@ -54,7 +54,8 @@ margin: 50px;
 
 .parametro-senha_botao {
     background-color: var(--ouro);
-    border: 2px solid var(--rosa);
+    border: 2px s
+    olid var(--rosa);
     padding: 10px;
     cursor: pointer;
 }
