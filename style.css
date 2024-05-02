@@ -52,7 +52,6 @@ display: flex;
 margin: 50px;
 }
 
-@media screen and (min-width: 768px){}
 
 .parametro-senha_botao {
     background-color: var(--ouro);
@@ -62,7 +61,7 @@ margin: 50px;
     cursor: pointer;
 }
 
-.parametro-senha-texto {
+.parametro-senha_texto {
     padding: 10px;
     border-top: 2px solid var(--rosa);
     border-bottom: 2px solid var(--rosa);
